@@ -17,9 +17,9 @@
 		<img src="images/" alt="" width="100">
 	</span -->
 	<span style="font-weight: bold;">
-		DevOps Made Easy,
-		Bangalore,
-		devopsmadeeasy@outlook.com
+		Intern Axiomio,
+		Hyd,
+		devops team
 		<br>
 		<a href="mailto:devopsmadeeasy@outlook.com">Mail to DevOps Made Easy</a>
 	</span>
