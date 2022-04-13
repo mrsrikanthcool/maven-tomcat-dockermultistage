@@ -1,12 +1,11 @@
 FROM alpine/git as gitclone
-ARG git_url
+
 WORKDIR /app
-RUN git clone ${git_url}
+RUN git clone https://github.com/mrsrikanthcool/maven-tomcat-dockermultistage.git
 
 FROM maven:3.8.2-openjdk-11 as build
-ARG project_name
 WORKDIR /app
-COPY --from=gitclone /app/ / ./
+COPY --from=gitclone /app/maven-tomcat-dockermultistage ./
 RUN mvn package
 
 FROM tomcat:9.0
