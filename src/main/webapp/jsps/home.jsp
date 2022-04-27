@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome! to DevOps Made Easy Training</h1>
-<h1 align="center"> DevOps Made Easy Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
+<h1 align="center">Welcome! to AxiomIO Training</h1>
+<h1 align="center"> Axiom is a cloud consulting company for high-growth organization</h1>
 <hr>
 <div style="text-align: center;">
 	<!-- span>
@@ -28,7 +28,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>DevOps Made Easy - Training, Consulting, Services, Product development.</p>
+<p align=center>Consulting, Services, Product development.</p>
 <p align=center><small>Copyrights 2021 by <a href="http://devopsmadeeasy.com/">DevOps Made Easy</a> </small></p>
 
 </body>
